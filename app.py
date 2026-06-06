@@ -223,7 +223,9 @@ if youtube_url:
         try:
 
             yt = YouTube(youtube_url)
-
+            except Exception as e:
+                st.error(f"Pytube Error: {e}")
+    
             col1, col2 = st.columns([1, 2])
 
             with col1:
