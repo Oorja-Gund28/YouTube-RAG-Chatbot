@@ -431,4 +431,3 @@ Built by Oorja Gund • Gemini • LangChain • FAISS • Streamlit
 """,
     unsafe_allow_html=True,
 )
-```
