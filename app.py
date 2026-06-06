@@ -42,11 +42,11 @@ if not GOOGLE_API_KEY:
 # Streamlit Page
 # -----------------------------------
 st.set_page_config(
-    page_title="YouTube RAG Chatbot",
+    page_title="YouTube Chatbot",
     page_icon="🎥",
 )
 
-st.title("🎥 YouTube RAG Chatbot")
+st.title("🎥 YouTube Chatbot")
 
 st.markdown(
     """
