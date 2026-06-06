@@ -391,8 +391,8 @@ if st.button("🚀 Get Answer", use_container_width=True):
 
         st.markdown("### Conversation")
 
-        with st.chat_message("user"):
-            st.write(question)
+        #with st.chat_message("user"):
+            #st.write(question)
 
         with st.chat_message("assistant"):
             st.markdown(answer)
