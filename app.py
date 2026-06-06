@@ -145,7 +145,7 @@ with st.sidebar:
 st.markdown(
     """
 <div class='hero'>
-    <div class='hero-title'>🎥 YouTube RAG Chatbot</div>
+    <div class='hero-title'>🎥 YouTube Chatbot</div>
     <div class='hero-subtitle'>
         Chat with any YouTube video using Retrieval-Augmented Generation (RAG)
     </div>
