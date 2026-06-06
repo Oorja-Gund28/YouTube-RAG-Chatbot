@@ -31,7 +31,7 @@ from langchain_core.output_parsers import StrOutputParser
 # --------------------------------------------------
 
 st.set_page_config(
-    page_title="YouTube RAG Chatbot",
+    page_title="YouTube Chatbot",
     page_icon="🎥",
     layout="wide",
 )
