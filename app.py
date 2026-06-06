@@ -50,9 +50,9 @@ st.title("🎥 YouTube Chatbot")
 
 st.markdown(
     """
-Ask questions about any YouTube video.
+Hey! Ask questions about any YouTube video.
 
-**Paste the full YouTube URL**, not just the video ID.
+**Paste the full YouTube URL**.
 """
 )
 
